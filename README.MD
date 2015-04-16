@@ -1,4 +1,4 @@
 PROYECTO DE PRUEBA
 ------------------
-Este es un proyecto de prueba realizado en el **CIFP DE AVILÉS**
-AVILES 2015
+Este es un proyecto de prueba realizado en el **CIFP DE AVILÃ‰S**
+AVILES, ABRIL DE 2015
